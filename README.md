@@ -3,8 +3,7 @@
 # HELLO MICROVERSE 
 This is the first exercise I did for the second day in Microverse. 
 
-![screenshot](https://user-images.githubusercontent.com/73128809/129636065-ebb6d21c-bdd8-4d59-a867-137e93a86561.png)
-
+![screenshot](/home/ivan/Imágenes/Capturas de pantalla/Captura de pantalla de 2021-10-18 15-20-19.png)
 In this exercise I ha
 
 ## Built With
@@ -14,7 +13,7 @@ In this exercise I ha
 
 ## Live Demo
 
-[Live Demo Link]  (https://ivaan1992.github.io/Hello/)
+[Live Demo Link](https://ivaan1992.github.io/Hello-Microverse/)
 
 
 ## Getting Started
