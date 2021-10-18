@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # HELLO MICROVERSE 
-This is the first exercise I did for the second day in Microverse. 
+This is the first exercise I made for the second day in Microverse. 
 
-![screenshot] (/home/ivan/Imágenes/Capturas de pantalla/Captura de pantalla de 2021-10-18 15-20-19.png)
-In this exercise I ha
+![screenshot](https://user-images.githubusercontent.com/73128809/137804600-64b84aca-8db7-4aeb-8d53-a1197cd292c1.png)
+
 
 ## Built With
 
