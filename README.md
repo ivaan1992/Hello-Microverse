@@ -3,7 +3,7 @@
 # HELLO MICROVERSE 
 This is the first exercise I did for the second day in Microverse. 
 
-![screenshot](/home/ivan/Imágenes/Capturas de pantalla/Captura de pantalla de 2021-10-18 15-20-19.png)
+![screenshot] (/home/ivan/Imágenes/Capturas de pantalla/Captura de pantalla de 2021-10-18 15-20-19.png)
 In this exercise I ha
 
 ## Built With
